@@ -11,7 +11,7 @@ composer require codeitnowin/curlrequest
 ## Uses -
 You can use Curl RequestIt by adding composer autoload file from vendor folder and then use namespace as given in below example
 
-### Example - QrCode:
+### Example - Request:
 ```php
 require_once 'vendor/autoload.php';
 
