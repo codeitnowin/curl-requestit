@@ -1,5 +1,5 @@
 {
-    "name": "codeitnowin/curlrequest",
+    "name": "codeitnowin/curlrequestit",
     "description": "Light weight curl request library by http://www.codeitnow.in, It has setters and getters to make easy to use. You can use Curl Request with any framework like Symfony, Laravel, CackPHP, CodeIgniter, Yii etc. This is alternate of Guzzle and other libraries.",
     "keywords": ["Curl", "Http", "Request", "Like Guzzle", "Laravel", "Cakephp", "Symfony", "CodeIgniter"],
     "homepage": "http://www.codeitnow.in",

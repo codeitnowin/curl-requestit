@@ -5,7 +5,7 @@ Light weight curl request library by http://www.codeitnow.in, It has setters and
 CodeItNow Curl RequestIt can install by composer.
 
 ```
-composer require codeitnowin/curlrequest
+composer require codeitnowin/curlrequestit
 ``` 
 
 ## Uses -
